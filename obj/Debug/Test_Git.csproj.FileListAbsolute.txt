@@ -1,0 +1,10 @@
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\bin\Debug\Test_Git.exe.config
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\bin\Debug\Test_Git.exe
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\bin\Debug\Test_Git.pdb
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.csproj.AssemblyReference.cache
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.Properties.Resources.resources
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.csproj.GenerateResource.cache
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.csproj.CoreCompileInputs.cache
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.exe
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.pdb
+D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.TrieuPhiForm.resources
