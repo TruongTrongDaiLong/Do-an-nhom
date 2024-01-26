@@ -19,7 +19,7 @@ namespace Test_Git
 
         private void TrieuPhiForm_Load(object sender, EventArgs e)
         {
-        //Trieuphi tao form 
+        //long tao form 
         }
     }
 }

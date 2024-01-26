@@ -8,3 +8,13 @@ D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.csproj.CoreCompileInputs.c
 D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.exe
 D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.pdb
 D:\TEST_GIT\Test_Git_02\Do-an-nhom\obj\Debug\Test_Git.TrieuPhiForm.resources
+D:\Git_Test\Test_Git_02\Test_Git\bin\Debug\Test_Git.exe.config
+D:\Git_Test\Test_Git_02\Test_Git\bin\Debug\Test_Git.exe
+D:\Git_Test\Test_Git_02\Test_Git\bin\Debug\Test_Git.pdb
+D:\Git_Test\Test_Git_02\Test_Git\obj\Debug\Test_Git.csproj.AssemblyReference.cache
+D:\Git_Test\Test_Git_02\Test_Git\obj\Debug\Test_Git.Properties.Resources.resources
+D:\Git_Test\Test_Git_02\Test_Git\obj\Debug\Test_Git.TrieuPhiForm.resources
+D:\Git_Test\Test_Git_02\Test_Git\obj\Debug\Test_Git.csproj.GenerateResource.cache
+D:\Git_Test\Test_Git_02\Test_Git\obj\Debug\Test_Git.csproj.CoreCompileInputs.cache
+D:\Git_Test\Test_Git_02\Test_Git\obj\Debug\Test_Git.exe
+D:\Git_Test\Test_Git_02\Test_Git\obj\Debug\Test_Git.pdb
