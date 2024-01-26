@@ -19,7 +19,7 @@ namespace Test_Git
 
         private void TrieuPhiForm_Load(object sender, EventArgs e)
         {
-            // Trieu Phi tao form 
+        //Trieuphi tao form 
         }
     }
 }
